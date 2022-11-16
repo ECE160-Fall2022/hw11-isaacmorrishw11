@@ -29,5 +29,8 @@ Simulate a use of this credit card with the following:
 
 
 Execution Steps: 
+python3 q1.py
 
 Output:
+150
+
