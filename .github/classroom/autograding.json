@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "q1",
+      "setup": "",
+      "run": "python3 question1/q1.py",
+      "input": "",
+      "output": "150",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 25
+    },
+    {
+      "name": "q2",
+      "setup": "",
+      "run": "python3 question2/q2.py",
+      "input": "",
+      "output": "Royal Flush",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 25
+    }
+  ]
+}
