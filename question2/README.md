@@ -40,5 +40,7 @@ Simulate a basic game of poker where a player receives a Royal Flush:
 
 
 Execution Steps: 
+python3 q2.py
 
 Output:
+Royal Flush
