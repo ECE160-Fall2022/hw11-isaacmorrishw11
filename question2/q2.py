@@ -8,7 +8,7 @@ class Card():
 
 class Hand():
   def __init__(self, name, card1, card2, card3, card4, card5):
-    self.name = name
+    self.name = name.capitalize()
     self.hand = [card1, card2, card3, card4, card5]
     self.RoyalFlush = ["10", "J", "Q", "K", "A"]
     
@@ -30,5 +30,5 @@ card3 = Card("Q", "hearts")
 card4 = Card("K", "hearts")
 card5 = Card("A", "hearts")
 
-myHand = Hand("morris", card1, card2, card3, card4, card5)
+myHand = Hand("mimi", card1, card2, card3, card4, card5)
 myHand.isRoyalFlush()
