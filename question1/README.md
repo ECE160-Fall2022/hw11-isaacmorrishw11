@@ -32,5 +32,5 @@ Execution Steps:
 python3 q1.py
 
 Output:
-150
 
+150
